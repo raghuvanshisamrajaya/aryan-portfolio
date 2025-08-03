@@ -1,6 +1,9 @@
 const nextConfig = {
-  // App Router is enabled by default in Next.js 13.4+
-  // No need for experimental.appDir anymore
+  output: 'export',
+  trailingSlash: true,
+  images: {
+    unoptimized: true
+  }
 }
 
 module.exports = nextConfig

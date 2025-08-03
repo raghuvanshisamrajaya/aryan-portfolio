@@ -2,6 +2,11 @@
 
 A modern, responsive developer portfolio showcasing the work of Aryan Thakur (Utkarsh Raghav), an 18-year-old Full Stack Developer, AI Engineer, and Entrepreneur.
 
+## 🌐 Live Website
+**[View Live Portfolio →](https://your-deployed-url.vercel.app)**
+
+> **Note**: The GitHub repository shows this README file. To see the actual portfolio website, visit the live deployment link above.
+
 ## 🚀 Features
 
 - **Modern Design**: Clean, contemporary aesthetic with subtle neon accents
